@@ -3,6 +3,6 @@ A C header converting 8-bit binary literal into hexadecimal literal. For some ol
 
 It might seems silly. But this is the fastest way to do this (for runtime performance)
 
-#Files
+# Files
 * BintoHex.h : The header itself
 * main.py : Script genearating the header
